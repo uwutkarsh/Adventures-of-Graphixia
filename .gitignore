@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+
+# CMake
+build/
+
+# Temporary files
+*.log
