@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="rectangle_rotate_scale/rectangle_rotate_scale.vcxproj" Id="745f8da1-f817-4abd-a210-45e50ad27dea" />
+</Solution>
